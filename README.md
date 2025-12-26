@@ -18,7 +18,7 @@ It uses proot, which lets you take a *rootfs* (root filesystem) of any OS and en
 7. make it multicolor window
 8. include Python
 9. include starter you
-10. ~~persistent storstora
+10. ~~persistent storage~~
   
  As you can see, theres a lot left, but im confident i can get it working. Enjoy AlpDroid!
 
