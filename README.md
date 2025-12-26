@@ -12,11 +12,11 @@ It uses proot, which lets you take a *rootfs* (root filesystem) of any OS and en
 1. ~~Make it work~~
 2. ~~Add basic functionality~~
 3. ~~make it look OK~~
-4. add proper TTY
-5. add X Server support
-6. add CTRL, ESC, ALT, etc and arrow keys shortcuts
+4. ~~add proper TTY~~ (using JNI C++ library)
+5. ~~add X Server support~~ (using X SERVER XSDL version 1.20.41)
+6. ~~add CTRL, ESC, ALT, etc and arrow keys shortcuts~~
 7. make it multicolor window
-8. include Python
+8. ~~include Python~~ (apk add python3)
 9. include starter scripts
 10. ~~persistent storage~~
   
