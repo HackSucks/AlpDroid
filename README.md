@@ -17,9 +17,10 @@ It uses proot, which lets you take a *rootfs* (root filesystem) of any OS and en
 6. add CTRL, ESC, ALT, etc and arrow keys shortcuts
 7. make it multicolor window
 8. include Python
-9. include starter scripts
-10. ~~persistent storage~~
-As you can see, theres a lot left, but im confident i can get it working. Enjoy AlpDroid!
+9. include starter you
+10. ~~persistent storstora
+  
+ As you can see, theres a lot left, but im confident i can get it working. Enjoy AlpDroid!
 
 
 # Credits, who made it possible
